@@ -1,6 +1,7 @@
 /*
- * Fit
- * Copyright 2013, Bill Hinderman http://billhinderman.com
+ * fit.js
+ * Copyright 2013 Bill Hinderman http://billhinderman.com
+ * WTFPL license
  * 
  * jQuery listener to resize text per the size of its container.
  * 
@@ -12,7 +13,7 @@
  *    data-resizer : Selector for resize
  *    data-resizer-size : Ideal font size for the text
  * 
- * Example:
+ * Usage:
  * <div>
  *    <div data-resizer data-resizer-size="45">I'm some text</div>
  *    <div data-resizer data-resizer-size="16">I'm smaller text</div>
