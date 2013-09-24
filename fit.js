@@ -1,6 +1,6 @@
 /*
- * Agent: FitText
- * Bill Hinderman - September 2013
+ * Fit
+ * Copyright 2013, Bill Hinderman http://billhinderman.com
  * 
  * jQuery listener to resize text per the size of its container.
  * 
